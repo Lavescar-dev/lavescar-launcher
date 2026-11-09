@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LavescarOS</string>
+    <string name="minimal_home_empty">Pinned apps will appear here.</string>
+    <string name="minimal_library_empty">No apps matched this search.</string>
+    <string name="minimal_search_empty">No apps matched this search.</string>
+    <string name="minimal_action_sheet_pinned">Pinned on home</string>
+    <string name="minimal_action_sheet_library">Available in app library</string>
+    <string name="action_sheet_workspace_title">Edit Home Screen</string>
+    <string name="action_sheet_workspace_subtitle">Widgets and launcher tools live here.</string>
+    <string name="action_add_widget">Add widget</string>
+    <string name="action_add_widget_subtitle">Launch the official widget picker flow.</string>
+    <string name="action_set_default_launcher">Set default launcher</string>
+    <string name="action_set_default_launcher_subtitle">Use LavescarOS for the official Home role.</string>
+    <string name="action_apply_sample_wallpaper">Apply sample wallpaper</string>
+    <string name="action_apply_sample_wallpaper_subtitle">Use the bundled iOS-inspired blue wallpaper.</string>
+    <string name="action_add_to_home">Add to home</string>
+    <string name="action_add_to_home_subtitle">Place this app on the workspace.</string>
+    <string name="action_remove_from_home">Remove from home</string>
+    <string name="action_remove_widget">Remove widget</string>
+    <string name="action_move_item">Move</string>
+    <string name="action_move_item_subtitle">Drag this item to a new position or onto another app to make a folder.</string>
+    <string name="action_app_info">App info</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="action_section_shortcuts">Shortcuts</string>
+    <string name="action_widget_sheet_subtitle">Widgets stay on the page and can be removed cleanly.</string>
+    <string name="launcher_suggested_title">Suggested</string>
+    <string name="launcher_recently_added_title">Recently Added</string>
+    <string name="launcher_search_empty_title">No Matching Apps</string>
+    <string name="launcher_search_empty_subtitle">Try a different name or browse from App Library overview.</string>
+    <string name="sample_wallpaper_applied">Sample wallpaper applied.</string>
+    <string name="sample_wallpaper_failed">The sample wallpaper could not be applied.</string>
+    <string name="widget_error_add_failed">The widget could not be added.</string>
+    <string name="widget_error_render_failed">This widget could not be prepared.</string>
+</resources>

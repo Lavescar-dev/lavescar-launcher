@@ -1,0 +1,12 @@
+<resources>
+    <string name="launcher_drawer_hint">Search apps</string>
+    <string name="launcher_search_title">Search</string>
+    <string name="launcher_app_library_title">App Library</string>
+    <string name="launcher_search_results_title">Search</string>
+    <string name="launcher_suggested_title">Suggested</string>
+    <string name="launcher_home_search_pill_description">Home search pill</string>
+    <string name="launcher_app_library_search_field_description">App Library search field</string>
+    <string name="launcher_remove_target">Remove</string>
+    <string name="launcher_search_content_description">Search installed apps</string>
+    <string name="launcher_widget_unavailable">This widget needs attention before it can render.</string>
+</resources>
